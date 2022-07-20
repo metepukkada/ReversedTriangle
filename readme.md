@@ -1,0 +1,1 @@
+# Girilen Sayıda Satıra Sahip Ve Girilen Sembollerden Oluşan Ters Üçgen Yazdıran Program.
